@@ -11,8 +11,8 @@ Here are some ideas to get you started: -->
   <li><p></p>🌱 I’m currently learning Computer Vision</li>
   <li><p></p>💼 I'm currently study with MJ-Cai</li>
   <li><p></p>🏫 I'm currently attending college at HNU</li>
-  <li><p></p><img src="https://img.shields.io/github/followers/Doctor-wu?style=social"/></li>
-  <li><p></p><img src="https://img.shields.io/github/stars/Doctor-wu?style=social"/></li>
+  <li><p></p><img src="https://img.shields.io/github/followers/lin-nie?style=social"/></li>
+  <li><p></p><img src="https://img.shields.io/github/stars/lin-nie?style=social"/></li>
 </ul>
 
 <!-- - 👯 I’m looking to collaborate on ...
